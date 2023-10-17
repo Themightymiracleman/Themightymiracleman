@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Themightymiracleman
+- 👀 I’m interested in data science, programming, AI, and database management.
+- 🌱 I’m currently learning how to incorporate AI into a program to assist physicians with diagnosing ailments.
+- 💞️ I’m looking to collaborate on machine learning projects.
+- 📫 How to reach me
+- brende_nichols@icloud.com
+- I look forward to hearing from you!
